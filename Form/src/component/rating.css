@@ -1,0 +1,36 @@
+.rating-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 36px 0px 0px 33px;
+
+  }
+  .headerTop{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  .headerTop-text{
+    color: black;
+    font-size: 22px;
+    position: fixed;
+    top:15%
+  }
+  .text-low{
+    color: red;
+    font-size: 16px;
+  }
+  .text-better{
+    color: green;
+    font-size: 16px;
+  }
+  .text-average{
+    color: orange;
+    font-size: 16px;
+  }
+  .value-text{
+    color: black;
+  }
